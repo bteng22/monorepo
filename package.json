@@ -7,7 +7,7 @@
     "puppies",
     "awesome"
   ],
-  "author": "Eli Reisman <elireisman@github.com>",
+  "author": "Brandon Teng <bteng22@github.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -30,7 +30,8 @@
     "helmet": "7.1.0",
     "needle": "3.3.1",
     "nuxt": "^3.12.2",
-    "express": "4.17.2"
+    "express": "4.17.2",
+    "jest": "29.7.0"
   },
   "engines": {
     "node": ">= 12"
